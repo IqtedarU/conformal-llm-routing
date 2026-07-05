@@ -55,7 +55,7 @@ On GSM8K, validation tuning exceeds the target violation rate despite higher cov
 Safe routing depends on both the task and the cheap model. A positive-coverage routing threshold is feasible when the gate can meet the required separation:
 
 $$
-\frac{\operatorname{TPR}(t)}{\operatorname{FPR}(t)} \ge
+\frac{\mathrm{TPR}(t)}{\mathrm{FPR}(t)} \ge
 C(\pi,\alpha) = \frac{(1-\pi)(1-\alpha)}{\pi\alpha},
 $$
 
