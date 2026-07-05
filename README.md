@@ -1,6 +1,6 @@
 # Conformal LLM Routing with Distribution-Free Safety Guarantees
 
-[Paper](https://aclanthology.org/2026.acl-srw.70/) | [PDF](https://aclanthology.org/2026.acl-srw.70.pdf) | Iqtedaruddin@gmail.com
+[Paper](https://aclanthology.org/2026.acl-srw.70/) | [PDF](https://aclanthology.org/2026.acl-srw.70.pdf) | Iuddin1@hawk.illinoistech.edu
 
 This repository contains the code and experiment materials for **Conformal LLM Routing with Distribution-Free Safety Guarantees**, published at ACL 2026 Student Research Workshop.
 
